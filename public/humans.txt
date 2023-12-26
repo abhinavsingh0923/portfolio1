@@ -1,0 +1,39 @@
+    __  
+   /  \ 
+  / /\ \
+ / ____ \
+/_/    \_\
+The humans.txt file explains the team, technology,
+and graphic assets behind this site humanstxt.org.
+
+_______________________________________________________________________________
+
+DEVELOPER | デザイナー
+
+Abhinav snigh
+An Application& web development
+
+Developer tools:
+Flutter
+Django
+Ethereum blockcahiin
+Vs code
+
+linkedin.com/in/abhianv-singh-2582b4226
+github.com/abhinavsingh0923
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Next.js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+Hiragino Kaku Gothic
